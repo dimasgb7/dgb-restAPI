@@ -1,0 +1,7 @@
+flask
+pandas
+firebase-admin
+google-cloud-firestore
+google-api-python-client
+google-cloud-storage
+pytest
