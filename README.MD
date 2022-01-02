@@ -1,6 +1,6 @@
 # DGB Project 
 
-Rest API para o fornecimento de dados preditivos.
+Rest API to deliver predictive data.
 
 ## Preparando o Ambiente
 Requerimentos:
